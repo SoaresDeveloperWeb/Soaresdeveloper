@@ -1,0 +1,106 @@
+body{
+   background-image: url('imagens/espaço.jpg');
+   background-repeat: no-repeat;
+  background-color: black;
+ 
+}
+
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ladoalado{
+    text-align: right;
+}
+
+#menu-horizontal{
+padding: 30px;
+background-color:black;
+margin: px;
+}
+
+.branco a{
+    color: white;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#menu-horizontal a:link{
+color: antiquewhite;
+
+}
+
+a:link{
+    text-decoration: none;
+}
+
+.text-rodape{
+    color: white;
+    text-align: left;
+}
+
+h2{
+color: white;
+font-size: 50px;
+font-family: Brush Script MT;
+}
+
+h1{
+    color:#FF6347;
+    font-size: 50px;
+    margin: 80px;
+ }
+
+ h4{
+     margin: 10px;
+     color: white;
+     margin: 80px;
+ } 
+
+#vermelho{
+    text-align: center;
+}
+
+ .botão{
+     margin: 80px;
+     text-decoration: none;
+    border:3 ;
+     width: 170px;
+     text-align: center;
+     padding: 10px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 16px;
+     background-color:orange;
+     color: white;
+ }
+
+ #titulo{
+     margin: 0%;
+
+ }
+
+ .palavras a{
+     color: white;
+     
+ }
+
+h3{
+    color: white;
+    margin:50px;
+}
+
+#rodape{
+    padding:30px;
+    background-color: black;
+    text-align: center;
+}
+
+
+
+#area-lateral{
+    height: 20px;
+    width: 100px;
+    float: right;
+  
+}
